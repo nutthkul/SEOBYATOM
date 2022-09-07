@@ -1,0 +1,16 @@
+{
+  "name": "katathailand",
+  "main": "Kata katathailand",
+  "theme": "syntax",
+  "version": "2.0.1",
+  "description": "ลูกชิ้นอกไก่ ลูกชิ้นไร้แป้ง",
+  "keywords": [
+    "ลูกชิ้นอกไก่",
+    "ลูกชิ้นไร้แป้ง"
+  ],
+  "repository": "https://github.com/nutthkul/SEOBYATOM.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
